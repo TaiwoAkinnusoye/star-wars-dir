@@ -1,0 +1,35 @@
+{
+  "name": "star-wars-dir",
+  "version": "1.0.0",
+  "description": "A Star Wars directory for characters, spaceships and planets",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaiwoAkinnusoye/star-wars-dir.git"
+  },
+  "author": "Taiwo AKinnusoye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TaiwoAkinnusoye/star-wars-dir/issues"
+  },
+  "homepage": "https://github.com/TaiwoAkinnusoye/star-wars-dir#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.10.1",
+    "@fortawesome/fontawesome-svg-core": "^1.2.21",
+    "@fortawesome/free-solid-svg-icons": "^5.10.1",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "@zeit/next-css": "^1.0.1",
+    "axios": "^0.19.0",
+    "next": "^9.0.3",
+    "nuka-carousel": "^4.5.9",
+    "prop-types": "^15.7.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "styled-components": "^4.3.2"
+  }
+}

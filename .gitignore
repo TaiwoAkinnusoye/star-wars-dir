@@ -1,0 +1,7 @@
+# ignore modules node_modules
+node_modules
+
+#ignore assets folders
+assets
+# ignore.next folder
+.next
